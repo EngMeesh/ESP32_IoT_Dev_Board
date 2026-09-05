@@ -4,6 +4,10 @@
 
 ![ESP32 IoT Dev Board 3D Render](3D_PCB.png)
 
+## Board Layout & Routing
+
+![ESP32-C3 PCB Routing Layout](PCB_LAYOUT.png)
+
 A custom 4-layer IoT development board based on the ESP32-C3, featuring integrated LiPo battery management, a CP2102N USB-UART bridge, MicroSD support, and onboard environmental/audio sensors for embedded engineering applications.
 
 This repository contains the KiCad 10 design files, schematics, and manufacturing data for a custom Internet of Things development board built around the ESP32-C3-WROOM-02-H4 module. The board is designed for educational purposes, sensor integration testing, and embedded systems prototyping. The physical PCB silkscreen attributes the design directly to Eng. Meshal Alamri.
