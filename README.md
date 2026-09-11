@@ -3,6 +3,7 @@
 📄 **[View Complete Schematic PDF](ESP32_IoT_Project.pdf)**
 
 ![ESP32 IoT Dev Board 3D Render](PCB_3D.png)
+![ESP32 IoT Dev Board 3D Render](PCB_3D_SIDE.png)
 
 ## Board Layout & Routing
 
